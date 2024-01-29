@@ -1,6 +1,3 @@
-'''
-Author: Ayush Goel (aygoel@seas.upenn.edu)
-'''
 import torch
 
 class MaskRearranger:
